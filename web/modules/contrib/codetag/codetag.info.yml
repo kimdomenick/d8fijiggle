@@ -1,0 +1,13 @@
+name: CodeTag
+type: module
+description: "Adds the CodeTag plugin to CKEditor, allowing editors to do inline code blocks."
+package: CKEditor
+core_version_requirement: ^8 || ^9 || ^10
+
+dependencies:
+  - drupal:ckeditor
+
+# Information added by Drupal.org packaging script on 2022-09-22
+version: '8.x-1.3'
+project: 'codetag'
+datestamp: 1663848471

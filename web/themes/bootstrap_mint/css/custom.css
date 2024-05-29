@@ -1,0 +1,251 @@
+/********  Custom Styles applied to the Mint Theme  ***************/
+
+/* Overall width of the template and media queries */
+.container {
+    max-width: 1440px;
+}
+
+/* Fix the fonts */
+html {
+    font-size: 16px;
+}
+body {
+    font-size: 1.1em;
+}
+
+/* enhance the Definition block on the home page */
+#block-definition {
+    background: rgb(180,250,236);
+    background: radial-gradient(circle, rgba(180,250,236,1) 0%, rgba(50,236,200,1) 100%); 
+    margin-top: 3rem; 
+    padding: 2rem;
+    text-align:center;
+    box-shadow: 0px 4px 15px #a2aec133;
+}
+
+/* enhance the welcome block on the home page */
+#block-welcometofijiggle {font-size:1.5em;}
+
+/* latest posts gettin an upgrade */
+#views-bootstrap-latest-posts-block-1 {
+    align-items: start;
+    justify-items: start;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    column-gap: 1rem;
+}
+#views-bootstrap-latest-posts-block-1 {
+   grid-auto-rows: max-content; 
+}
+#views-bootstrap-latest-posts-block-1 .panel {
+    height: 100%;
+}
+#views-bootstrap-latest-posts-block-1 .panel-info {
+    border-color: #32ecc8;
+}
+#views-bootstrap-latest-posts-block-1 .panel-info >.panel-heading {
+    color: black;
+    text-align: center;
+    background: rgb(180,250,236);
+    background: radial-gradient(circle, rgba(180,250,236,1) 0%, rgba(50,236,200,1) 100%);
+}
+
+#views-bootstrap-latest-posts-block-1 .panel-info >.panel-heading img {
+    border-radius: 50%;
+    display: inline-block;
+}
+
+/* Homepage widget sections */
+.topwidget .col-sm-4 .block,
+.footer-widgets .col-sm-4 .block {
+    min-height: 350px;
+}
+
+
+/* Appearance and layout classes  */
+.light-green {color:#32ecc8;}
+.medium-green {color:#1abc9c;}
+.dark-green {color:#00614e;}
+.small {font-size:80%;}
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic);
+blockquote{
+  font-size: 1.4em;
+  font-family:Open Sans;
+  font-style:italic;
+  border-left: none;
+  color: #555555;
+  padding:1.2em 30px 1.2em 75px;
+  line-height:1.6;
+  position: relative;
+}
+
+blockquote::before{
+  font-family:Arial;
+  content: "\201C";
+  color:#1abc9c;
+  font-size:4em;
+  position: absolute;
+  left: 10px;
+  top:-10px;
+}
+
+blockquote::after{
+  font-family:Arial; 
+  content: "\201D";
+  color:#1abc9c;
+  font-size:4em;
+  position: absolute;
+  right: 10px;
+  bottom:-40px;
+}
+
+blockquote span{
+  display:block;
+  color:#333333;
+  font-style: normal;
+  font-weight: bold;
+  margin-top:1em;
+}
+.field--name-body blockquote {
+    float: right;
+    width: 325px;
+    height: auto;
+}
+@media all and (max-width: 600px) {
+    .field--name-body blockquote {
+        float: none;
+        width: 100%;
+        display: block;
+    }
+}
+
+/* Fixing horizontal rule tags in the body and elsewhere */
+.field--name-body hr.style-mint,
+hr.style-mint {
+    position: static;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+/* Restyling the Page Title  */
+.region-page-title {
+    min-height: 200px;
+    background-size: cover;
+    position: relative;
+    background: url(../images/header_back.jpg) no-repeat;
+    opacity: 0.5;
+}
+body.page-node-type-article .region-page-title {
+    background: url(../../../sites/default/files/background/blog.png) no-repeat;
+}
+body.page-node-type-portfolio .region-page-title {
+    background: url(../../../sites/default/files/background/portfolio.png) no-repeat;
+}
+
+@media all and (max-width: 600px) {
+    .region-page-title {
+        height: auto;
+        
+    }
+}
+.region-page-title h1.page-title {
+    font-size: 3em;
+    padding: 1em;
+}
+
+/* Restyling Content Top region  */
+.region-content-top {
+    border: 1px solid #e9e8ed;
+    padding: 15px;
+    font-size: 1.5em;
+    text-align: center;
+    margin: 20px 0;
+    background: #fdfdfd;
+}
+
+/* Article Release Date Field  */
+.view-id-summary_and_quotes .views-field-field-release-date {
+    font-weight: bold;
+    margin-left: 40px;
+    color: black;
+}
+
+/* Article Featured Images */
+.page-node-type-article .region-content .field--name-field-image {
+    float: left;
+    padding-right: 2rem;
+    padding-bottom: 1rem;
+}
+
+.page-node-type-article .region-content .field--name-field-image img {
+    border-radius: 50%;
+}
+
+/* Blog and Portfolio view styles  */
+.views-bootstrap-blog-block-1 {margin-top:1em;}
+.views-bootstrap-blog-block-1 .pad {text-align:center; padding:1.2em; background:#eee; margin-bottom:1.2em; min-height:380px; transition:0.3s; -webkit-transition:0.3s;}
+.views-bootstrap-blog-block-1 .pad:hover {
+     background-color:grey; color:white; min-height:380px;
+}
+.views-bootstrap-blog-block-1 .pad img {
+    border-radius: 50%;
+}
+
+#block-views-block-porfolio-block-1, #block-views-block-porfolio-block-3, #block-views-block-porfolio-block-4 {margin-top:1em; text-align:center;}
+
+#block-views-block-porfolio-block-1 .pad, #block-views-block-porfolio-block-3 .pad, #block-views-block-porfolio-block-4 .pad {padding:1.2em; background:#eee; margin-bottom:1.2em; min-height:250px; transition:0.3s; -webkit-transition:0.3s;}
+
+#block-views-block-porfolio-block-1 .pad:hover, #block-views-block-porfolio-block-3 .pad:hover, #block-views-block-porfolio-block-4 .pad:hover {
+    background-color:grey; color:white; min-height:260px;
+}
+
+/* Extend button styling  */
+.btn {
+    transition:0.3s;
+}
+.btn:hover {
+    padding: 12px;
+    color: white;
+}
+.hello {position: absolute; bottom: 20px; right: 16px; 
+}
+
+/*  Image Gallery styles  */
+/*.field--name-field-gallery {clear: both;}
+.field--name-field-gallery .field__item {padding: 10px; display: inline-grid; width: 220px;} */
+
+/* Resize Icon images in the Social Block and give them a hover effect */
+#block-social .fa {font-size: 21px;
+    background: #1abc9c;
+    width: 40px;
+    height: 40px;
+    padding: 10px 0 0 10px;
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    color: #fff;
+    margin-bottom: 5px;}
+#block-social .icon-facebook .fa:hover {background:#3b5998;}
+#block-social .icon-linkedin .fa:hover {background:#dd4b39;}
+#block-social .icon-drupal .fa:hover {background:#0274b3;}
+
+/* Need a code class */
+code {
+    padding: 0.125rem 0.5rem;
+    font-family: monospace;
+    background: #32ecc8;
+    color: inherit;
+    border-radius: 0;
+}
+
+/* Much needed spacing */
+.region-highlighted > * + * {
+  margin-top: 2rem;
+}
+
+/* Footer */
+div#footer-bottom {background-color:#333; color:white;}
+
+
+

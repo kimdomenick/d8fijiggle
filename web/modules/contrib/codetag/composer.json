@@ -1,0 +1,24 @@
+{
+  "name": "drupal/codetag",
+  "type": "drupal-module",
+  "description": "Adds the CodeTag plugin to CKEditor.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0-or-later",
+  "homepage": "http://drupal.org/project/codetag",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Kevin Quillen (kevinquillen)",
+      "homepage": "https://www.drupal.org/u/kevinquillen",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/codetag",
+    "source": "https://git.drupalcode.org/project/codetag"
+  },
+  "require": {
+    "drupal-ckeditor-libraries-group/codetag": "^0.1"
+  },
+  "prefer-stable": true
+}
