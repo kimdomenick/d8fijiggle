@@ -1,0 +1,13 @@
+name: fijiggle
+recipe: drupal8
+config:
+  webroot: web
+  php: '7.4'
+services:
+  phpmyadmin:
+    type: phpmyadmin
+    hosts:
+      - database
+
+env_file:
+  - .env

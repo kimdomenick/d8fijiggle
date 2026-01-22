@@ -1,0 +1,142 @@
+7,Address Field (addressfield),"Manage a flexible address field, implementing the xNAL standard.",Address Field,addressfield,https://drupal.org/project/addressfield
+7,AddToAny (addtoany),"Share buttons by AddToAny, including the AddToAny universal sharing button, Facebook, Twitter, Google+, Pinterest, and over 100 more on the AddToAny platform.",AddToAny,addtoany,https://drupal.org/project/addtoany
+"7,8",Admin Toolbar (admin_toolbar),Provides an improved drop-down menu interface to the site Toolbar.,Admin Toolbar ,admin_toolbar,https://drupal.org/project/admin_toolbar
+7,Admin VBO Views (admin_vbo_views),Replacement administrative views for Drupal,Admin VBO Views ,admin_vbo_views,https://drupal.org/project/admin_vbo_views
+7,Ajax Blocks (ajaxblocks),Loads dynamic blocks on cached page for anonymous users by performing AJAX request.,Ajax Blocks ,ajaxblocks,https://drupal.org/project/ajaxblocks
+7,Behavior weights (behavior_weights),Allows to attach weights to your Drupal behaviors (javascript).,Behavior weights ,behavior_weights,https://drupal.org/project/behavior_weights
+"7,8",Block Class (block_class),Allows assigning CSS classes to blocks.,Block Class ,block_class,https://drupal.org/project/block_class
+8,Block Exclude Pages (block_exclude_pages),Adds an exclude pages filter for blocks,Block Exclude Pages ,block_exclude_pages,https://drupal.org/project/block_exclude_pages
+7,Boost (boost),Caches generated output as a static file to be served directly from the webserver.,Boost ,boost,https://drupal.org/project/boost
+8,Business Rules (business_rules),Business Rules,Business Rules ,business_rules,https://drupal.org/project/business_rules
+7,Cache Expiration (expire),Logic for expiring cached pages.,Cache Expiration ,expire,https://drupal.org/project/expire
+8,Calendar Recurring Event (calendar_recurring_event),Provide custom fields for recurring event feature provided by Fullcalendar View module,Calendar Recurring Event ,calendar_recurring_event,https://drupal.org/project/calendar_recurring_event
+7,CAPTCHA (captcha),Base CAPTCHA module for adding challenges to arbitrary forms.,CAPTCHA ,captcha,https://drupal.org/project/captcha
+"7,8",Chaos tools (ctools),A library of helpful tools by Merlin of Chaos.,Chaos tools ,ctools,https://drupal.org/project/ctools
+7,Commerce Custom Line Items (commerce_custom_line_items),Provides extra custom line items for Drupal Commerce,Commerce Custom Line Items ,commerce_custom_line_items,https://drupal.org/project/commerce_custom_line_items
+7,Commerce Donate (commerce_donate),Provides a donation product and checkout page widget for Drupal Commerce,Commerce Donate ,commerce_donate,https://drupal.org/project/commerce_donate
+7,Commerce Order Fieldgroup Panes (commerce_fieldgroup_panes),Provides for each fieldgroup in the order entity a pane.,Commerce Order Fieldgroup Panes ,commerce_fieldgroup_panes,https://drupal.org/project/commerce_fieldgroup_panes
+7,Commerce (commerce),Defines features and functions common to the Commerce modules. Must be enabled to uninstall other Commerce modules.,Commerce ,commerce,https://drupal.org/project/commerce
+8,Conditional Fields (conditional_fields),Define dependencies between fields based on their states and values,Conditional Fields ,conditional_fields,https://drupal.org/project/conditional_fields
+7,Custom breadcrumbs (custom_breadcrumbs),Allows administrators to define custom breadcrumb trails for node types.,Custom breadcrumbs ,custom_breadcrumbs,https://drupal.org/project/custom_breadcrumbs
+7,Customer Profile Type UI (customer_profile_type_ui),"Provides the ability to dynamically add new customer profile types for the commerce module. Also, defines new rules events and actions to disable customer profile panes.",Customer Profile Type UI,customer_profile_type_ui,https://drupal.org/project/customer_profile_type_ui
+7,Database search (search_api_db),Offers an implementation of the Search API that uses database tables for indexing content.,Database search ,search_api_db,https://drupal.org/project/search_api_db
+8,Date Timepicker (timepicker),,Date Timepicker ,timepicker,https://drupal.org/project/timepicker
+7,Date (date),Makes date/time fields available.,Date ,date,https://drupal.org/project/date
+8,Dbug (dbug),Drupal version of ColdFusion's cfdump,Dbug ,dbug,https://drupal.org/project/dbug
+"7,8",Devel (devel),"Various blocks, pages, and functions for developers.",Devel,devel,https://drupal.org/project/devel
+8,Devel Entity Updates (devel_entity_updates),Provides developers an API and drush command to perform automatic entity updates,Devel Entity Updates ,devel_entity_updates,https://drupal.org/project/devel_entity_updates
+7,Ecard (ecard),Leave an ecard for your friends on the site.,Ecard ,ecard,https://drupal.org/project/ecard
+"7,8",Elysia Cron (elysia_cron),Extended cron support with crontab-like scheduling and other features.,Elysia Cron,elysia_cron,https://drupal.org/project/elysia_cron
+7,Email (email),Defines an email field type.,Email ,email,https://drupal.org/project/email
+7,Entity API (entity),Enables modules to work with any entity type and to provide entities.,Entity API,entity,https://drupal.org/project/entity
+7,Entity cache (entitycache),Provides caching for core entities including nodes and taxonomy terms.,Entity cache ,entitycache,https://drupal.org/project/entitycache
+8,Entity Reference Views Select ( entity_reference_views_select),"Entity Reference Views displayed as a select list, checkboxes or radio buttons in forms",Entity Reference Views Select, entity_reference_views_select,https://drupal.org/project/ entity_reference_views_select
+7,Entity Reference (entityreference),Provides a field that can reference other entities.,Entity Reference,entityreference,https://drupal.org/project/entityreference
+7,Entity view modes (entity_view_mode),Allows administrators to define custom view modes for entities via the administration user interface.,Entity view modes,entity_view_mode,https://drupal.org/project/entity_view_mode
+8,Events Log Track (events_log_track),Logs general CUD events performed by the user (using the forms) on the website.,Events Log Track ,events_log_track,https://drupal.org/project/events_log_track
+8,External Authentication (externalauth),Helper module to authenticate users using an external site / service and storing identification details,External Authentication ,externalauth,https://drupal.org/project/externalauth
+7,Facet API (facetapi),An abstracted facet API that can be used by various search backends.,Facet API ,facetapi,https://drupal.org/project/facetapi
+7,Features Override (features_override),Allows exported Features to be overridden,Features Override ,features_override,https://drupal.org/project/features_override
+7,Features (features),Provides feature management for Drupal.,Features ,features,https://drupal.org/project/features
+"7,8",Feeds Tamper (feeds_tamper),Modify feeds data before it gets saved.,Feeds Tamper ,feeds_tamper,https://drupal.org/project/feeds_tamper
+"7,8",Feeds (feeds),"Aggregates RSS/Atom/RDF feeds, imports CSV files and more.",Feeds,feeds,https://drupal.org/project/feeds
+7,Fences (fences),Configurable field wrappers,Fences ,fences,https://drupal.org/project/fences
+7,Field Formatter Class (field_formatter_class),Allows custom HTML classes for field formatters.,Field Formatter Class ,field_formatter_class,https://drupal.org/project/field_formatter_class
+7,Field formatter CSS class (field_formatter_css_class),Adds a formatter for text/list/term-reference fields to render as CSS classes on nodes.,Field formatter CSS class ,field_formatter_css_class,https://drupal.org/project/field_formatter_css_class
+7,Field formatter settings API (field_formatter_settings),Provides missing alter hooks for field formatter settings and summaries,Field formatter settings API ,field_formatter_settings,https://drupal.org/project/field_formatter_settings
+7,Field Group (field_group),Provides the ability to group your fields on both form and display.,Field Group ,field_group,https://drupal.org/project/field_group
+7,Field Slideshow (field_slideshow),Provides a Slideshow format for displaying Image or Media fields.,Field Slideshow ,field_slideshow,https://drupal.org/project/field_slideshow
+7,File Depot (filedepot),Full featured Document Management module,File Depot ,filedepot,https://drupal.org/project/filedepot
+7,File Entity (file_entity),Extends Drupal file entities to be fieldable and viewable.,File Entity ,file_entity,https://drupal.org/project/file_entity
+7,FitVids (fitvids),jQuery plugin for fluid width video embeds.,FitVids ,fitvids,https://drupal.org/project/fitvids
+7,Follow (follow),Add sitewide and per user links to social network profiles.,Follow ,follow,https://drupal.org/project/follow
+8,Full Calendar View Plugin (fullcalendar_view),A view plugin to present contents in FullCalendar view,Full Calendar View Plugin ,fullcalendar_view,https://drupal.org/project/fullcalendar_view
+8,Generate Password (genpass),Generate a password when adding a new user.,Generate Password ,genpass,https://drupal.org/project/genpass
+7,Geocoder (geocoder),An API and widget to geocode various known data into other GIS data types.,Geocoder ,geocoder,https://drupal.org/project/geocoder
+7,Geofield (geofield),"Stores geographic and location data (points, lines, and polygons).",Geofield,geofield,https://drupal.org/project/geofield
+7,geoPHP (geophp),Wraps the geoPHP library: advanced geometry operations in PHP,geoPHP ,geophp,https://drupal.org/project/geophp
+7,Global Redirect (globalredirect),Searches for an alias of the current URL and 301 redirects if found. Stops duplicate content arising when path module is enabled.,Global Redirect ,globalredirect,https://drupal.org/project/globalredirect
+7,Google Analytics (googleanalytics),Allows your site to be tracked by Google Analytics by adding a Javascript tracking code to every page.,Google Analytics ,googleanalytics,https://drupal.org/project/googleanalytics
+7,Google Tag Manager (google_tag),Allows your website analytics to be managed using Google Tag Manager.,Google Tag Manager ,google_tag,https://drupal.org/project/google_tag
+7,HTTP Parallel Request Library (httprl),Send http requests out in parallel in a blocking or non-blocking manner.,HTTP Parallel Request Library ,httprl,https://drupal.org/project/httprl
+7,Image URL Formatter (image_url_formatter),Add an URL formatter for image field,Image URL Formatter ,image_url_formatter,https://drupal.org/project/image_url_formatter
+7,IMCE for File Field (imce_filefield),Allows users to select files from IMCE File Browser for file fields.,IMCE for File Field ,imce_filefield,https://drupal.org/project/imce_filefield
+7,IMCE Mkdir (imce_mkdir),Allows users manage directories in IMCE,IMCE Mkdir ,imce_mkdir,https://drupal.org/project/imce_mkdir
+7,IMCE Wysiwyg API bridge (imce_wysiwyg),Makes IMCE available as plugin for client-side editors integrated via Wysiwyg API.,IMCE Wysiwyg API bridge ,imce_wysiwyg,https://drupal.org/project/imce_wysiwyg
+7,IMCE (imce),An image/file uploader and browser supporting personal directories and user quota.,IMCE ,imce,https://drupal.org/project/imce
+7,Insert (insert),"Assists in inserting files, images, or other media into the body field or other text areas.",Insert ,insert,https://drupal.org/project/insert
+7,jCarousel (jcarousel),Create jQuery-based carousel rotators.,jCarousel ,jcarousel,https://drupal.org/project/jcarousel
+7,Job Scheduler Trigger (job_scheduler_trigger),"Creates scheduler triggers that fire up at certain days, times",Job Scheduler Trigger,job_scheduler_trigger,https://drupal.org/project/job_scheduler_trigger
+7,jQuery Multi (jqmulti),"Runs a second version of jQuery in parallel to Drupal's version, and allows for targeting of files and libraries to the second version.",jQuery Multi ,jqmulti,https://drupal.org/project/jqmulti
+7,jQuery UI filter (jquery_ui_filter),Converts static HTML to a JQuery UI Accordian or Tabs widget.,jQuery UI filter ,jquery_ui_filter,https://drupal.org/project/jquery_ui_filter
+7,jQuery Update (jquery_update),Update jQuery and jQuery UI to a more recent version.,jQuery Update ,jquery_update,https://drupal.org/project/jquery_update
+"7,8",JSON:API (jsonapi),Exposes entities as a JSON:API-specification-compliant web API.,JSON:API ,jsonapi,https://drupal.org/project/jsonapi
+7,Juicebox (juicebox),Provides an integration between the Juicebox HTML5 responsive gallery library and Drupal.,Juicebox ,juicebox,https://drupal.org/project/juicebox
+"7,8",LDAP (ldap),Implements LDAP Authentication,LDAP,ldap,https://drupal.org/project/ldap
+7,Login Destination (login_destination),Customize the destination that the user is redirected to after login.,Login Destination ,login_destination,https://drupal.org/project/login_destination
+7,Mail System (mailsystem),Provides a user interface for per-module and site-wide mail_system selection.,Mail System ,mailsystem,https://drupal.org/project/mailsystem
+7,Media (media),Provides the core Media API,Media ,media,https://drupal.org/project/media
+7,Menu attributes (menu_attributes),Allows administrators to specify custom attributes for menu items.,Menu attributes ,menu_attributes,https://drupal.org/project/menu_attributes
+7,Menu Block (menu_block),Provides configurable blocks of menu items.,Menu Block ,menu_block,https://drupal.org/project/menu_block
+8,Merci (merci),Core functions for Managed Equipment Reservation Checkout and Inventory,Merci ,merci,https://drupal.org/project/merci
+7,Meta tags (quick) (metatags_quick),Meta tags support build using FieldAPI/EntityAPI,Meta tags ,quick,https://drupal.org/project/quick
+8,Migrate Plus (migrate_plus),Enhancements to core migration support,Migrate Plus ,migrate_plus,https://drupal.org/project/migrate_plus
+8,Migrate Source CSV (migrate_source_csv),CSV source migration,Migrate Source CSV ,migrate_source_csv,https://drupal.org/project/migrate_source_csv
+8,Migrate Tools (migrate_tools),Tools to assist in developing and running migrations.,Migrate Tools ,migrate_tools,https://drupal.org/project/migrate_tools
+7,Module filter (module_filter),Filter the modules list.,Module filter ,module_filter,https://drupal.org/project/module_filter
+8,Multiselect (multiselect),"Defines a multiple selection field widget, to allow easier multi-selection for users.",Multiselect,multiselect,https://drupal.org/project/multiselect
+"7,8",No Request New Pass (noreqnewpass),Disable link to request a new password,No Request New Pass ,noreqnewpass,https://drupal.org/project/noreqnewpass
+7,Office hours (office_hours),"Defines a 'weekly office hours' field type, allowing you to specify when an Entity is open or closed.",Office hours ,office_hours,https://drupal.org/project/office_hours
+"7,8",Organic Groups (og),API to allow associating content with groups.,Organic Groups ,og,https://drupal.org/project/og
+7,Page Title (page_title),Enhanced control over the page title (in the <head> tag),Page Title ,page_title,https://drupal.org/project/page_title
+7,Password policy (password_policy),The Password Policy module allows you to enforce a specific level of password complexity for the user passwords on the system.,Password policy ,password_policy,https://drupal.org/project/password_policy
+7,Pathauto (pathauto),Provides a mechanism for modules to automatically generate aliases for the content they manage.,Pathauto ,pathauto,https://drupal.org/project/pathauto
+7,Permission Select (permission_select),Gives select all/deselect all options on the permissions section of the Drupal admin.,Permission Select ,permission_select,https://drupal.org/project/permission_select
+"7,8",PHP filter (php),Allows embedded PHP code/snippets to be evaluated.,PHP filter ,php,https://drupal.org/project/php
+8,Real name (realname),Provides token-based name displays for users.,Real name ,realname,https://drupal.org/project/realname
+7,reCAPTCHA (recaptcha),Protect your website from spam and abuse while letting real people pass through with ease.,reCAPTCHA ,recaptcha,https://drupal.org/project/recaptcha
+7,Redirect (redirect),Allows users to redirect from old URLs to new URLs.,Redirect ,redirect,https://drupal.org/project/redirect
+7,Registration (registration),Entity based registration system.,Registration ,registration,https://drupal.org/project/registration
+7,Registry Autoload (registry_autoload),Adds support for PSR-0 and PSR-4 to the Drupal 7 core registry.,Registry Autoload ,registry_autoload,https://drupal.org/project/registry_autoload
+7,Responsive Menus (responsive_menus),Responsify any menu using CSS Selectors.,Responsive Menus ,responsive_menus,https://drupal.org/project/responsive_menus
+7,RESTful (restful),"Turn Drupal to a RESTful server, following best practices.",RESTful,restful,https://drupal.org/project/restful
+8,RoleAssign (roleassign),Allows site administrators to further delegate the task of managing user's roles.,RoleAssign ,roleassign,https://drupal.org/project/roleassign
+7,Rules (rules),React on events and conditionally evaluate actions.,Rules ,rules,https://drupal.org/project/rules
+7,Scheduler (scheduler),This module allows nodes to be published and unpublished on specified dates and time.,Scheduler ,scheduler,https://drupal.org/project/scheduler
+7,Search API autocomplete (search_api_autocomplete),Adds autocomplete functionality to searches.,Search API autocomplete ,search_api_autocomplete,https://drupal.org/project/search_api_autocomplete
+7,Search API (search_api),Provides a generic API for modules offering search capabilities.,Search API ,search_api,https://drupal.org/project/search_api
+7,Secure Site (securesite),Enables HTTP Auth security or an HTML form to restrict site access.,Secure Site ,securesite,https://drupal.org/project/securesite
+7,Select (or other) (select_or_other),Provides a select box form element with additional option 'Other' to give a textfield.,Select,or other,https://drupal.org/project/or other
+7,SEO Checklist (seo_checklist),A Search Engine Optimization checklist for Drupal.,SEO Checklist ,seo_checklist,https://drupal.org/project/seo_checklist
+7,Slider Revolution (revslider),Provides a UI that config to displays content as a Slider Revolution. This is an API and requires Slider Revolution Resonsive jquery plugin.,Slider Revolution ,revslider,https://drupal.org/project/revslider
+7,Smart Trim (smart_trim),"Provides a more robust alternative to ""summary or trimmed"" textfield format",Smart Trim ,smart_trim,https://drupal.org/project/smart_trim
+7,Sooperthemes Glazed Builder (glazed_builder),Visual Drag and Drop Page Builder based on Bootstrap Framework,Sooperthemes Glazed Builder ,glazed_builder,https://drupal.org/project/glazed_builder
+7,Sooperthemes Glazed Portfolio (glazed_portfolio),Glazed Premium Portfolio Views,Sooperthemes Glazed Portfolio ,glazed_portfolio,https://drupal.org/project/glazed_portfolio
+7,SooperThemes GridStack (sooperthemes_gridstack),SooperThemes GridStack Views,SooperThemes GridStack ,sooperthemes_gridstack,https://drupal.org/project/sooperthemes_gridstack
+7,String Overrides (stringoverrides),Provides a quick and easy way of replacing text.,String Overrides ,stringoverrides,https://drupal.org/project/stringoverrides
+7,Styles (styles),Bundles similar display formatters together.,Styles ,styles,https://drupal.org/project/styles
+7,TagClouds (tagclouds),TagClouds makes weighted tag clouds from your taxonomy terms.,TagClouds ,tagclouds,https://drupal.org/project/tagclouds
+"7,8",Tamper (feeds_tamper),Generic plugin to modify data.,Tamper ,feeds_tamper,https://drupal.org/project/feeds_tamper
+7,TB Mega Menu (tb_megamenu),Megamenu solutions for Drupal,TB Mega Menu ,tb_megamenu,https://drupal.org/project/tb_megamenu
+7,Telephone (telephone),Defines a field type for telephone numbers.,Telephone ,telephone,https://drupal.org/project/telephone
+8,Time Field (time_field),Time field,Time Field ,time_field,https://drupal.org/project/time_field
+"7,8",Token (token),Provides a user interface for the Token API and some missing core tokens.,Token ,token,https://drupal.org/project/token
+8,Typed Data (typed_data),Extends the core Typed Data API with new APIs and features.,Typed Data ,typed_data,https://drupal.org/project/typed_data
+"7,8",Ultimate Cron (ultimate_cron),Cron,Ultimate Cron ,ultimate_cron,https://drupal.org/project/ultimate_cron
+7,Ultimate Cron (ultimate_cron),Cron,Ultimate Cron ,ultimate_cron,https://drupal.org/project/ultimate_cron
+8,Unique Field Ajax (unique_field_ajax),The Unique Field module allows administrators to require that content supplied for specified fields is unique.,Unique Field Ajax ,unique_field_ajax,https://drupal.org/project/unique_field_ajax
+7,Universally Unique ID (uuid),Extends the entity functionality and adds support for universally unique identifiers.,Universally Unique ID ,uuid,https://drupal.org/project/uuid
+7,View Unpublished (view_unpublished),Select which roles should be able to see unpublished nodes.,View Unpublished ,view_unpublished,https://drupal.org/project/view_unpublished
+"7,8",Views Bootstrap (views_bootstrap),Bootstrap Components,Views Bootstrap ,views_bootstrap,https://drupal.org/project/views_bootstrap
+"7,8",Views Bulk Operations (views_bulk_operations),Adds an ability to perform bulk operations on selected entities from view results.,Views Bulk Operations ,views_bulk_operations,https://drupal.org/project/views_bulk_operations
+7,Views Data Export (views_data_export),Plugin to export views data into various file formats,Views Data Export ,views_data_export,https://drupal.org/project/views_data_export
+7,Views field formatter (views_field_formatter),Use the result of a view to display a field.,Views field formatter ,views_field_formatter,https://drupal.org/project/views_field_formatter
+7,Views fieldsets (views_fieldsets),Output several Views fields into a fieldset,Views fieldsets ,views_fieldsets,https://drupal.org/project/views_fieldsets
+7,Views Slideshow (views_slideshow),Provides a View style that displays rows as a jQuery slideshow. This is an API and requires Views Slideshow Cycle or another module that supports the API.,Views Slideshow ,views_slideshow,https://drupal.org/project/views_slideshow
+"7,8",Views (views),Create customized lists and queries from your database.,Views ,views,https://drupal.org/project/views
+7,Webform Hints (webform_hints),"Turns field labels into placeholder hints on Webform textareas, textfields, and email fields.",Webform Hints ,webform_hints,https://drupal.org/project/webform_hints
+"7,8",Webform Select Limit (webform_select_limit),Provides a webform validation component to limit the amount of times users can submit select option values.,Webform Select Limit ,webform_select_limit,https://drupal.org/project/webform_select_limit
+7,Webform Validation (webform_validation),Add validation rules to webforms,Webform Validation ,webform_validation,https://drupal.org/project/webform_validation
+7,Webform (webform),Enables the creation of forms and questionnaires.,Webform ,webform,https://drupal.org/project/webform
+7,Wysiwyg (wysiwyg),Allows to edit content with client-side editors.,Wysiwyg ,wysiwyg,https://drupal.org/project/wysiwyg
+7,XML sitemap (xmlsitemap),Creates an XML sitemap conforming to the sitemaps.org protocol.,XML sitemap ,xmlsitemap,https://drupal.org/project/xmlsitemap

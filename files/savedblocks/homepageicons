@@ -1,0 +1,18 @@
+<div class="details">
+<span class="fa fa-drupal" aria-hidden="true"></span>
+<div class="desc">10+ years of experience in site building, theming, and development</div>
+<br>
+<div><a class="btn cb-bordered-2 cb-rc-5px-f" href="portfolio/drupal">Drupal Sites </a></div>
+</div>
+<div class="details">
+<span class="fa fa-modx" aria-hidden="true"></span>
+<div class="desc">Front-end dev for various apps and content management systems.</div>
+<br>
+<div><a class="btn cb-bordered-2 cb-rc-5px-f" href="portfolio/applications">Apps </a> <a class="btn cb-bordered-2 cb-rc-5px-f" href="portfolio/graphics">Graphics</a></div>
+</div>
+<div class="details">
+<span class="fa fa-skyatlas" aria-hidden="true"></span>
+<div class="desc">Interior Design, Staging, Art and more...</div>
+<br>
+<div><a class="btn cb-bordered-2 cb-rc-5px-f" href="/creative-portfolio">Creative Portfolio </a></div>
+</div>
